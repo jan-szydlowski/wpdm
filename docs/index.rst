@@ -13,6 +13,8 @@ Welcome to the TSProto documentation
 Install
 =======
 
+Czy to działa?
+
 LUX can be installed from either `PyPI <https://pypi.org/project/wpdm>`_ or directly from source code `GitHub <https://github.com/sbobek/wpdm>`_
 
 To install form PyPI::
