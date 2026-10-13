@@ -5,4 +5,3 @@ class MyModel1:
 class MyModel2:
     def __init__(self):
         pass
-
